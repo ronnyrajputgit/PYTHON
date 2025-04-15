@@ -7,9 +7,6 @@ import pandas as pd
 import os
 import uuid
 import gc
-
-
-
 app = FastAPI()
 
 
